@@ -8,7 +8,7 @@
 - Works Perfectly With Every Website. 100% Compatible.
 - Also Tells You How-Many \*Stuff\* Were Fixed  :
 - It Even shows How many error is fixed]
-![](ss/ss.jpeg)
+![](ss/ss.JPG)
 
 <hr/>
 
